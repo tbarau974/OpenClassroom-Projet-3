@@ -1,11 +1,7 @@
 Projet n°3
 ----------
 
-Requêtez une base de données avec SQL
-
-==========================================================
-
-Objectifs pédagogiques
+<h2>Requêtez une base de données avec SQL</h2>
 
 ---------------------
 
